@@ -11,7 +11,8 @@ public class DemoController {
 	
 		@RequestMapping(value = "/")
 			public String method1() {
+			System.out.println("Hello");
 				return("Hi");
 			}
-		}
+}
 
