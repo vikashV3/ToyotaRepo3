@@ -18,7 +18,7 @@ public class DemoController {
 	@RequestMapping(value = "/Hai")
 	public String method2(){
 	
-		return ("Hi Hi")
+		return ("Hi Hi hey hey hey hey hey")
 	}
 }
 
